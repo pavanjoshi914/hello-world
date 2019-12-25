@@ -41,5 +41,3 @@ Each commit posses a corresponding commit message,it represents other contributo
  It’s a great way to learn the GitHub flow before working on larger projects.
      
  
- 5>MERGING FEATURE INTO MASTER BRANCH:
-  
